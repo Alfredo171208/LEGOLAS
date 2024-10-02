@@ -69,7 +69,6 @@ class Binusmaya:
         return self.Schedule.append(t)
                 
 
-#THIS IS THE INPUT THINGY
 
 test = Binusmaya()
 test.add_lec_data('pala dia', 'Boxing', '3456789')
