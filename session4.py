@@ -13,6 +13,6 @@ def alex (number, letter):
     
     return test
 
-print(alex((1,2,3,4), 'reha'))
+print(alex((1,2,3,4), 'alex'))
 
 
